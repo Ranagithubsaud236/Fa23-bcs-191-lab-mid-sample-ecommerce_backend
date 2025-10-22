@@ -1,0 +1,34 @@
+[
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2f01" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d01" },
+    "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c01" },
+    "rating": 5,
+    "review_text": "Amazing laptop, super fast and the display is gorgeous!",
+    "timestamp": { "$date": "2023-10-21T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2f02" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d02" },
+    "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c02" },
+    "rating": 4,
+    "review_text": "Great battery life, but I wish it had more ports.",
+    "timestamp": { "$date": "2023-10-23T11:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2f03" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d01" },
+    "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c03" },
+    "rating": 5,
+    "review_text": "Best mouse I've ever used. So ergonomic and precise.",
+    "timestamp": { "$date": "2023-10-26T14:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2f04" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d03" },
+    "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c04" },
+    "rating": 4,
+    "review_text": "Excellent monitor for productivity. Colors are vibrant.",
+    "timestamp": { "$date": "2023-09-16T10:00:00Z" }
+  }
+]

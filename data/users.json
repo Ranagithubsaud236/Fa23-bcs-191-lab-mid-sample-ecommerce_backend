@@ -1,0 +1,26 @@
+[
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2d01" },
+    "name": "Alice Wonderland",
+    "email": "alice.w@example.com",
+    "location": "San Francisco, USA",
+    "created_at": { "$date": "2022-10-01T08:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2d02" },
+    "name": "Bob The Builder",
+    "email": "bob.b@example.com",
+    "location": "London, UK",
+    "created_at": { "$date": "2022-11-01T09:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2d03" },
+    "name": "Charlie Chaplin",
+    "email": "charlie.c@example.com",
+    "location": "Paris, France",
+    "created_at": { "$date": "2023-01-01T10:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  }
+]

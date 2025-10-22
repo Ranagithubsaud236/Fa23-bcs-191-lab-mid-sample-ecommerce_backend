@@ -1,0 +1,62 @@
+[
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2c01" },
+    "name": "HP Spectre x360 14",
+    "description": "Premium 2-in-1 laptop with 11th Gen Intel Core i7, 16GB RAM, 512GB SSD.",
+    "category": "Laptops",
+    "price": 1299.99,
+    "brand": "HP",
+    "rating": { "average": 4.7, "count": 125 },
+    "stock": 50,
+    "created_at": { "$date": "2023-01-01T10:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2c02" },
+    "name": "Apple MacBook Air M1",
+    "description": "Ultra-thin and light laptop with Apple M1 chip, 8GB RAM, 256GB SSD.",
+    "category": "Laptops",
+    "price": 999.00,
+    "brand": "Apple",
+    "rating": { "average": 4.9, "count": 200 },
+    "stock": 120,
+    "created_at": { "$date": "2023-02-01T11:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2c03" },
+    "name": "Logitech MX Master 3S",
+    "description": "Advanced wireless mouse for ultimate productivity.",
+    "category": "Accessories",
+    "price": 99.99,
+    "brand": "Logitech",
+    "rating": { "average": 4.8, "count": 80 },
+    "stock": 300,
+    "created_at": { "$date": "2023-03-01T09:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2c04" },
+    "name": "Dell UltraSharp U2723QE",
+    "description": "27-inch 4K USB-C Hub Monitor with IPS Black technology.",
+    "category": "Monitors",
+    "price": 649.00,
+    "brand": "Dell",
+    "rating": { "average": 4.6, "count": 60 },
+    "stock": 75,
+    "created_at": { "$date": "2023-04-01T13:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2c05" },
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise canceling headphones with excellent sound.",
+    "category": "Audio",
+    "price": 349.99,
+    "brand": "Sony",
+    "rating": { "average": 4.8, "count": 150 },
+    "stock": 200,
+    "created_at": { "$date": "2023-05-01T14:00:00Z" },
+    "updated_at": { "$date": "2023-10-27T10:00:00Z" }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2e01" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d01" },
+    "products": [
+      {
+        "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c01" },
+        "name": "HP Spectre x360 14",
+        "price_at_purchase": 1299.99,
+        "quantity": 1
+      },
+      {
+        "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c03" },
+        "name": "Logitech MX Master 3S",
+        "price_at_purchase": 99.99,
+        "quantity": 1
+      }
+    ],
+    "total_cost": 1399.98,
+    "timestamp": { "$date": "2023-10-20T14:30:00Z" },
+    "status": "completed"
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2e02" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d02" },
+    "products": [
+      {
+        "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c02" },
+        "name": "Apple MacBook Air M1",
+        "price_at_purchase": 999.00,
+        "quantity": 1
+      },
+      {
+        "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c05" },
+        "name": "Sony WH-1000XM5",
+        "price_at_purchase": 349.99,
+        "quantity": 2
+      }
+    ],
+    "total_cost": 1698.98,
+    "timestamp": { "$date": "2023-10-22T10:00:00Z" },
+    "status": "shipped"
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2e03" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d01" },
+    "products": [
+      {
+        "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c03" },
+        "name": "Logitech MX Master 3S",
+        "price_at_purchase": 99.99,
+        "quantity": 1
+      }
+    ],
+    "total_cost": 99.99,
+    "timestamp": { "$date": "2023-10-25T16:00:00Z" },
+    "status": "completed"
+  },
+  {
+    "_id": { "$oid": "653b6f8f9e6d7f001a1b2e04" },
+    "user_id": { "$oid": "653b6f8f9e6d7f001a1b2d03" },
+    "products": [
+      {
+        "product_id": { "$oid": "653b6f8f9e6d7f001a1b2c04" },
+        "name": "Dell UltraSharp U2723QE",
+        "price_at_purchase": 649.00,
+        "quantity": 1
+      }
+    ],
+    "total_cost": 649.00,
+    "timestamp": { "$date": "2023-09-15T09:00:00Z" },
+    "status": "completed"
+  }
+]
