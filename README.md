@@ -145,3 +145,7 @@ This project implements the backend for an e-commerce marketplace, designed usin
 - **MongoDB:** NoSQL database for storing application data.
 
 ## Project Structure
+<br>
+Author
+<br>
+Muhammad Sawood(fa23-bcs-191)
